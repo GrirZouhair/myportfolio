@@ -1,5 +1,5 @@
 import "./style.css";
-
+import portfolio from "../../../src/portfolio/portfolio.pdf";
 const Header = () => {
 	return (
 		<header className="header">
@@ -13,7 +13,7 @@ const Header = () => {
 				<div className="header__text">
 					<p>with passion for learning and creating.</p>
 				</div>
-				<a href="#!" className="btn">
+				<a href={portfolio} download={portfolio} className="btn">
 					Download CV
 				</a>
 			</div>

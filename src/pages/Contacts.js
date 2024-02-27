@@ -33,7 +33,7 @@ const Contacts = () => {
 
 								<div class="ag-courses-item_date-box">
 									<span class="ag-courses-item_date">
-										0677711910
+										06.77.71.19.10
 									</span>
 								</div>
 							</a>

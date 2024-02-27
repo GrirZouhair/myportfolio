@@ -231,6 +231,8 @@ body {
 }
 
 /* here is the update version of cards */
+
+
 .ag-format-container {
 	width: 1142px;
 	margin: 0 auto;
@@ -353,6 +355,7 @@ body {
 	.ag-courses_item {
 		-ms-flex-preferred-size: calc(50% - 30px);
 		flex-basis: calc(50% - 30px);
+
 	}
 
 	.ag-courses-item_title {
@@ -361,16 +364,29 @@ body {
 }
 
 @media only screen and (max-width: 767px) {
+	.ag-courses_item {
+
+
+		border-radius: 28px;
+	}
+
 	.ag-format-container {
 		width: 96%;
 	}
 
+	.ag-courses_box {
+		flex-direction: column;
+		width: 300px;
+		margin: auto;
+		display: flex;
+	}
 }
 
 @media only screen and (max-width: 639px) {
 	.ag-courses_item {
 		-ms-flex-preferred-size: 100%;
 		flex-basis: 100%;
+		width: 300px;
 	}
 
 	.ag-courses-item_title {
@@ -386,6 +402,10 @@ body {
 
 	.ag-courses-item_date-box {
 		font-size: 16px;
+	}
+
+	.ag-courses_box {
+		flex-direction: column;
 	}
 }
 
