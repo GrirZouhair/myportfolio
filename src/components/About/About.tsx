@@ -1,5 +1,5 @@
 import { Container } from "./styles";
-import zgrir from "../../assets/zgrir.png";
+import zgrir from "../../assets/zogrir.png";
 import wordpress from "../../assets/wordpress.svg";
 import mysql from "../../assets/mysql-icon.svg";
 import htmlIcon from "../../assets/html-icon.svg";
@@ -21,23 +21,19 @@ export function About() {
         </ScrollAnimation>
         <ScrollAnimation animateIn="fadeInLeft" delay={0.1 * 1000}>
           <p>
-            Hi there! I'm Zouhair, a website developer with a passion for creating custom online experiences for my clients. With a skill set including HTML, CSS, JavaScript, and React, I have the tools to bring any website vision to life.
+          Full-stack developer with a hands-on approach to learning. I believe the best way to grow is to build  real projects, real problems, real solutions. When I'm not coding, I'm probably exploring new tools or diving deep into something that caught my curiosity.
           </p>
         </ScrollAnimation>
 
         <ScrollAnimation animateIn="fadeInLeft" delay={0.3 * 1000}>
           <p>
-            So if you're in need of a new website or just looking to revamp your current online presence, I'd love to chat and see how I can help. Let's bring your website dreams to reality together!</p>
+          </p>
         </ScrollAnimation>
         <ScrollAnimation animateIn="fadeInLeft" delay={0.4 * 1000}>
           <h3>Here are my main skills:</h3>
         </ScrollAnimation>
         <div className="hard-skills">
-          <div className="hability">
-            <ScrollAnimation animateIn="fadeInUp" delay={0.10 * 1000}>
-              <img src={wordpress} alt="Wordpress" />
-            </ScrollAnimation>
-          </div>
+          
           <div className="hability">
             <ScrollAnimation animateIn="fadeInUp" delay={0.12 * 1000}>
               <img src={mysql} alt="mysql" />
@@ -53,11 +49,7 @@ export function About() {
               <img src={typescriptIcon} alt="Typescript" />
             </ScrollAnimation>
           </div>
-          <div className="hability">
-            <ScrollAnimation animateIn="fadeInUp" delay={0.15 * 1000}>
-              <img src={vueIcon} alt="Vue" />
-            </ScrollAnimation>
-          </div>
+          
           <div className="hability">
             <ScrollAnimation animateIn="fadeInUp" delay={0.16 * 1000}>
               <img src={nodeIcon} alt="Node" />

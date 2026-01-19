@@ -9,7 +9,7 @@ import instagramIcon from '../../assets/instagram.svg'
 export function Footer() {
   return (
     <Container className="footer">
-      <a href="#" className="logo">
+      <a href="/" className="logo">
         <span>Grir</span>
         <span>Zouhair</span>
       </a>
