@@ -1,9 +1,9 @@
 {
   "files": {
     "main.css": "/myportfolio/static/css/main.039bf95e.css",
-    "main.js": "/myportfolio/static/js/main.e3566339.js",
-    "static/media/Blue Light Blue Color Blocks Flight Attendant CV (1).pdf": "/myportfolio/static/media/Blue Light Blue Color Blocks Flight Attendant CV (1).1aa00672dcd69ffbc9b8.pdf",
-    "static/media/zgrir.png": "/myportfolio/static/media/zgrir.e7acc10a796ade48818d.png",
+    "main.js": "/myportfolio/static/js/main.ad414b99.js",
+    "static/media/CV_19_01.pdf": "/myportfolio/static/media/CV_19_01.8c256c11220ff35f9ecd.pdf",
+    "static/media/zogrir.png": "/myportfolio/static/media/zogrir.ab26764b0f86c935aa37.png",
     "static/media/Hello.gif": "/myportfolio/static/media/Hello.d93720933c608f6178fb.gif",
     "static/media/illustration.svg": "/myportfolio/static/media/illustration.cf4b7a67f23b684549c4f797c62b527a.svg",
     "static/media/sass-icon.svg": "/myportfolio/static/media/sass-icon.8351205a93eafac2e392b26acf7580e1.svg",
@@ -27,10 +27,10 @@
     "static/media/js-icon.svg": "/myportfolio/static/media/js-icon.ffcf56dc5498f7bbbec802191c740e5f.svg",
     "static/media/vue-icon.svg": "/myportfolio/static/media/vue-icon.c286d2da48ffbf281f407b0c4c94271f.svg",
     "main.039bf95e.css.map": "/myportfolio/static/css/main.039bf95e.css.map",
-    "main.e3566339.js.map": "/myportfolio/static/js/main.e3566339.js.map"
+    "main.ad414b99.js.map": "/myportfolio/static/js/main.ad414b99.js.map"
   },
   "entrypoints": [
     "static/css/main.039bf95e.css",
-    "static/js/main.e3566339.js"
+    "static/js/main.ad414b99.js"
   ]
 }
